@@ -59,6 +59,8 @@
     <Compile Include="Assets\Scripts\Unit.cs" />
     <Compile Include="Assets\Scripts\Turret.cs" />
     <Compile Include="Assets\Scripts\SceneManagment.cs" />
+    <Compile Include="Assets\Scripts\Spawner.cs" />
+    <Compile Include="Assets\Scripts\ProgressBar.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
